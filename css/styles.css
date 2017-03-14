@@ -204,41 +204,28 @@ footer {
 
   }
 
-
   nav {
+    margin: auto;
+    width: 100%;
     display: inline-block;
-  }
-
-  .navigation {
-    padding-top: 20px;
-    background-color: #f8f8f8;
-    display: inline-block;
-    white-space: nowrap;
+    padding-right: 45px;
+    
   }
 
   .header-name {
     float: left;
+    padding-top: 20px;
     padding-left: 40px;
   }
-
 
   .nav-elements {
     float: right;
-    padding-top: 25px;
-    margin-left: 780px;
-    
-    
-  }
-
-  .nav-elements li {
-    display: inline-block;
-    background-color: #f8f8f8;
-    
-
+    width: auto;
+    padding-top: 30px;
   }
 
   .intro {
-    padding-left: 40px;
+    padding-left: 10px;
     font-size: 1.2em;
   }
 
